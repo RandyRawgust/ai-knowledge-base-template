@@ -28,20 +28,14 @@ Prereqs: Obsidian, Claude Code, PowerShell 5.1+, git, [gh CLI](https://cli.githu
 
 Read [[14 - How To/guides/01-system-overview]] first, then [[14 - How To/guides/03-vault-index]] for the full catalog. The four how-to canvases in `14 - How To/` give the visual map.
 
-## What's stripped vs original
-
 This is a sanitized template:
 
 - All daily notes, chat transcripts, project notes, and Excalidraw drawings have been removed
 - Activity Log is reset to an empty table
 - Agent memory `recent.md` files are blank (frontmatter only)
 - Personal identifiers (name, email, GitHub handle, custom domains) are replaced with placeholders
-- Specific project examples (TerraWatt, KSP) are replaced with generic `<Example>` references
+- Specific project examples are replaced with generic `<Example>` references
 - `.claude/settings.json` is reset; `bootstrap-for-new-user.ps1` regenerates it for your machine
-
-## Original
-
-This template was generated from [<YOUR-GH-HANDLE>/ai-knowledge-base](https://github.com/<YOUR-GH-HANDLE>/ai-knowledge-base) (private). Re-run `22 - Scripts\make-template.ps1` from the live vault to refresh this template.
 
 ## Brainstorming Project upload pack
 
