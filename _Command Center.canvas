@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"header","type":"text","text":"# 🎛️ Command Center\n\nLive vault status — every card embeds a section of [[Dashboard]]. Edit queries there; they update here automatically. Right-click any card → *Open file* to jump into the source.","x":0,"y":-110,"width":1560,"height":90,"color":"6"},
+		{"id":"today","type":"file","file":"Dashboard.md","subpath":"#Today's focus","x":0,"y":10,"width":500,"height":280},
+		{"id":"workflows","type":"file","file":"Dashboard.md","subpath":"#🛠️ Workflows","x":1060,"y":10,"width":500,"height":260},
+		{"id":"active","type":"file","file":"Dashboard.md","subpath":"#Active projects","x":0,"y":310,"width":500,"height":300},
+		{"id":"specs","type":"file","file":"Dashboard.md","subpath":"#Specialists","x":530,"y":360,"width":500,"height":300},
+		{"id":"sched","type":"file","file":"Dashboard.md","subpath":"#🕒 Scheduled Tasks","x":1060,"y":360,"width":500,"height":250},
+		{"id":"courses","type":"file","file":"Dashboard.md","subpath":"#Course progress","x":0,"y":630,"width":500,"height":300},
+		{"id":"recent","type":"file","file":"Dashboard.md","subpath":"#Recent activity","x":1060,"y":630,"width":500,"height":300},
+		{"id":"links","type":"file","file":"Dashboard.md","subpath":"#Quick links","x":0,"y":950,"width":1560,"height":260},
+		{"id":"projagents","type":"file","file":"Dashboard.md","subpath":"#Project-specific agents","x":530,"y":680,"width":500,"height":250},
+		{"id":"depts","type":"file","file":"Dashboard.md","subpath":"#Department Heads","x":530,"y":10,"width":500,"height":330}
+	],
+	"edges":[]
+}

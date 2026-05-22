@@ -1,0 +1,767 @@
+﻿Software inventory scan
+Generated: 2026-05-17 21:30
+Host: ANDYS-DESKTOP / User: andya
+
+============================================================
+  1. Registry (desktop apps)
+============================================================
+Count: 224
+
+A Bumpy Ride Demo                                       |                 | Cosmoporium Games              | F:\SteamLibrary\steamapps\common\A Bumpy Ride Demo
+ABRISS                                                  |                 | Randwerk                       | F:\SteamLibrary\steamapps\common\ABRISS
+Adventure Game Studio 4.0.0 Alpha31                     | 4.00.00.27      | AGS Project Team               | F:\Adventure Game Studio 4.0.0\
+AMD Software                                            | 24.9.1          | Advanced Micro Devices, Inc.   | C:\Program Files\AMD\CIM\BIN64
+Animaze                                                 |                 | Holotech Studios Inc.          | F:\SteamLibrary\steamapps\common\Animaze
+Aseprite 1.3.17                                         |                 | Igara Studio S.A.              | C:\Program Files\Aseprite\
+Audacity 3.7.1                                          | 3.7.1           | Audacity Team                  | C:\Program Files\Audacity\
+Automation                                              |                 | One Tree Hill Studios          | C:\Program Files (x86)\Steam\steamapps\common\AutomationPLC
+Backseat Drivers Demo                                   |                 | GhostJam Games                 | F:\SteamLibrary\steamapps\common\Backseat Drivers Demo
+Balatro                                                 |                 | LocalThunk                     | 
+Baldur's Gate 3                                         |                 | Larian Studios                 | 
+Battle.net                                              |                 | Blizzard Entertainment         | C:\Program Files (x86)\Battle.net
+Big Boy Boxing Demo                                     |                 | Soupmasters                    | D:\SteamLibrary\steamapps\common\Big Boy Boxing Demo
+Bingle Bingle                                           |                 | Knitting Games                 | C:\Program Files (x86)\Steam\steamapps\common\Bingle Bingle
+BitTorrent                                              | 7.11.0.47225    | BitTorrent Limited             | C:\Users\andya\AppData\Roaming\BitTorrent
+Blackmagic RAW Common Components                        | 4.3             | Blackmagic Design              | 
+Bun                                                     |                 |                                | C:\Users\andya\.bun
+Carnivores: Dinosaur Hunter Reborn                      |                 | Digital Dreams Entertainment LLC | C:\Program Files (x86)\Steam\steamapps\common\CarnivoresReborn
+Chrome Remote Desktop                                   | 1.0             | Google\Chrome                  | 
+Chrome Remote Desktop Host                              | 148.0.7778.23   | Google LLC                     | 
+Claude                                                  | 1.0             | Google\Chrome                  | 
+Claude Code                                             | 2.1.114         | Anthropic PBC                  | C:\Users\andya\AppData\Local\Microsoft\WinGet\Packages\Anthropic.ClaudeCode_Microsoft.Winget.Source_8wekyb3d8bbwe
+CMake                                                   | 4.3.0           | Kitware                        | C:\Program Files\CMake\
+Commander Keen Complete Pack                            |                 | id Software                    | D:\SteamLibrary\steamapps\common\Commander Keen
+Content Warning                                         |                 | Skog                           | D:\SteamLibrary\steamapps\common\Content Warning
+Copilot                                                 | 148.0.3967.54   | Microsoft Corporation          | C:\Program Files (x86)\Microsoft\Copilot\Application
+Crash Bandicoot™ N. Sane Trilogy                        |                 | Vicarious Visions              | F:\SteamLibrary\steamapps\common\Crash Bandicoot - N Sane Trilogy
+CRUMB                                                   |                 | Mike Bushell                   | 
+CurseForge                                              | 1.304.4.3704    | Overwolf app                   | 
+Cursor (User)                                           | 3.3.30          | Anysphere                      | C:\Users\andya\AppData\Local\Programs\cursor\
+DaVinci Resolve                                         | 19.1.20003      | Blackmagic Design              | 
+DaVinci Resolve Control Panels                          | 2.3.0.0         | Blackmagic Design              | 
+Deep Rock Galactic                                      |                 | Ghost Ship Games               | 
+Diablo II Resurrected                                   |                 | Blizzard Entertainment         | F:\Battle.net\Diablo II Resurrected
+Diablo III                                              |                 | Blizzard Entertainment         | F:\Battle.net\Diablo III
+Diablo IV                                               |                 | Blizzard Entertainment         | F:\Battle.net\Diablo IV
+Discord                                                 | 1.0.9237        | Discord Inc.                   | C:\Users\andya\AppData\Local\Discord
+Docker Desktop                                          | 4.69.0          | Docker Inc.                    | C:\Program Files\Docker\Docker
+DroidKit                                                | 1.0.1.3         | iMobie Inc.                    | C:\Program Files (x86)\iMobie\DroidKit
+EA app                                                  | 13.396.0.5909   | Electronic Arts                | 
+Emberward Demo                                          |                 | Refic Games                    | F:\SteamLibrary\steamapps\common\Emberward Demo
+Empires of the Undergrowth                              |                 | Slug Disco                     | 
+Epic Games Launcher                                     | 1.3.93.0        | Epic Games, Inc.               | C:\Program Files (x86)\Epic Games\
+Epic Online Services                                    | 4.3.0           | Epic Games, Inc.               | 
+EXAPUNKS                                                |                 | Zachtronics                    | F:\SteamLibrary\steamapps\common\EXAPUNKS
+Ex-Zodiac                                               |                 | MNKY                           | D:\SteamLibrary\steamapps\common\Ex-Zodiac
+Fairlight Audio Accelerator Utility                     | 1.0.15          | Blackmagic Design              | C:\Program Files\Blackmagic Design\DaVinci Resolve\audio\Fairlight Audio Accelerator\
+FATE                                                    |                 | WildTangent                    | C:\Program Files (x86)\Steam\steamapps\common\FATE
+FFmpeg                                                  | 8.1.1           | Gyan                           | C:\Users\andya\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe
+Foundation Demo                                         |                 | Polymorph Games                | D:\SteamLibrary\steamapps\common\Foundation Demo
+Free Stars: The Ur-Quan Masters                         |                 | Pistol Shrimp                  | F:\SteamLibrary\steamapps\common\Free Stars The Ur-Quan Masters
+Galaxy of Pen & Paper                                   |                 | Behold Studios                 | F:\SteamLibrary\steamapps\common\Galaxy of Pen and Paper
+GameRanger                                              |                 | GameRanger Technologies        | C:\Users\andya\AppData\Roaming\GameRanger\GameRanger
+Ghost Watchers                                          |                 | Renderise                      | 
+Git                                                     | 2.53.0.2        | The Git Development Community  | C:\Program Files\Git\
+GitHub CLI                                              | 2.89.0          | GitHub, Inc.                   | 
+GOG GALAXY                                              | 2.0.77.22       | GOG.com                        | C:\Program Files (x86)\GOG Galaxy\
+Good Company Demo                                       |                 | Chasing Carrots                | F:\SteamLibrary\steamapps\common\Good Company Demo
+Google Chrome                                           | 148.0.7778.168  | Google LLC                     | C:\Program Files\Google\Chrome\Application
+Google Earth Pro                                        | 7.3.7.1155      | Google                         | 
+Grand Theft Auto V Enhanced                             |                 | Rockstar North                 | F:\SteamLibrary\steamapps\common\Grand Theft Auto V Enhanced
+Hacknet                                                 |                 | Team Fractal Alligator         | F:\SteamLibrary\steamapps\common\Hacknet
+HandBrake 1.8.2                                         | 1.8.2           |                                | 
+Harry Potter: Quidditch Champions                       |                 | Unbroken Studios               | 
+Hearthstone                                             |                 | Blizzard Entertainment         | F:\Battle.net\Hearthstone
+HELLDIVERS™ 2                                           |                 | Arrowhead Game Studios         | 
+Heroes of Hammerwatch II Demo                           |                 | Crackshell                     | D:\SteamLibrary\steamapps\common\Heroes of Hammerwatch II Demo
+Hogwarts Legacy                                         |                 | Avalanche Software             | 
+HOT WHEELS UNLEASHED™                                   |                 | Milestone S.r.l.               | F:\SteamLibrary\steamapps\common\HOT WHEELS UNLEASHED
+Hotline Miami                                           |                 | Dennaton Games                 | F:\SteamLibrary\steamapps\common\hotline_miami
+Insider Trading Demo                                    |                 | Naiive                         | F:\SteamLibrary\steamapps\common\Chart Trading Simulator Demo
+Java 8 Update 481 (64-bit)                              | 8.0.4810.10     | Oracle Corporation             | C:\Program Files\Java\jre1.8.0_481\
+Java(TM) SE Development Kit 25.0.1 (64-bit)             | 25.0.1.0        | Oracle Corporation             | C:\Program Files\Java\jdk-25\
+Jellyfin Server 10.9.10                                 | 10.9.10         | The Jellyfin Project           | 
+Jumplight Odyssey (Original Game Soundtrack)            |                 | League of Geeks                | D:\SteamLibrary\steamapps\music\Jumplight Odyssey (Original Game Soundtrack)
+Jurassic World Evolution 2                              |                 | Frontier Developments          | F:\SteamLibrary\steamapps\common\Jurassic World Evolution 2
+Kerbal Space Program                                    |                 | Squad                          | 
+King Arthur's Gold                                      |                 | Transhuman Design              | D:\SteamLibrary\steamapps\common\King Arthur's Gold
+Kitten Space Agency                                     | 2025.11.4.2791  | RocketWerkz                    | F:\Kitten Space Agency\
+K-Lite Codec Pack 18.0.5 Standard                       | 18.0.5          | KLCP                           | C:\Program Files (x86)\K-Lite Codec Pack\
+LaCie Desktop Manager 2.7.0                             | 2.7.0           | LaCie                          | C:\Program Files (x86)\LaCie\LaCie Desktop Manager\
+Legend Bowl                                             |                 | Super Pixel Games              | 
+LEGO® Builder's Journey                                 |                 | Light Brick Studio             | F:\SteamLibrary\steamapps\common\LEGO Builder's Journey
+LLVM                                                    | 22.1.1          | LLVM                           | 
+Locomoto Demo                                           |                 | Green Tile Digital             | F:\SteamLibrary\steamapps\common\Locomoto Demo
+Logitech G HUB                                          | 2024.9.649333   | Logitech                       | 
+Madden NFL 19                                           | 1.0.51.54377    | Electronic Arts                | C:\Program Files\EA Games\Madden NFL 19\
+Microsoft .NET SDK 8.0.421 (x64)                        | 8.4.2126.23002  | Microsoft Corporation          | 
+Microsoft Edge                                          | 148.0.3967.70   | Microsoft Corporation          | C:\Program Files (x86)\Microsoft\Edge\Application
+Microsoft GameInput                                     | 3.3.182.0       | Microsoft Corporation          | 
+Microsoft JDK with Hotspot 21.0.3+9 (x64)               | 21.0.3.9        | Microsoft                      | C:\Program Files\Microsoft\jdk-21.0.3.9-hotspot\
+Microsoft Office Professional Plus 2010                 | 14.0.4734.1000  | Microsoft Corporation          | C:\Program Files (x86)\Microsoft Office
+Microsoft OneDrive                                      | 26.070.0414.0001 | Microsoft Corporation          | 
+Microsoft System CLR Types for SQL Server 2019          | 15.0.2000.5     | Microsoft Corporation          | 
+Microsoft Teams                                         | 1.5.00.4689     | Microsoft Corporation          | C:\Users\andya\AppData\Local\Microsoft\Teams
+Microsoft Update Health Tools                           | 3.74.0.0        | Microsoft Corporation          | 
+Microsoft Visio - en-us                                 | 16.0.19929.20172 | Microsoft Corporation          | C:\Program Files (x86)\Microsoft Office
+Microsoft Visio - es-es                                 | 16.0.19929.20172 | Microsoft Corporation          | C:\Program Files (x86)\Microsoft Office
+Microsoft Visio - fr-fr                                 | 16.0.19929.20172 | Microsoft Corporation          | C:\Program Files (x86)\Microsoft Office
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219 | 10.0.40219      | Microsoft Corporation          | 
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 | 10.0.40219      | Microsoft Corporation          | 
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 | 11.0.61030.0    | Microsoft Corporation          | 
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 | 11.0.61030.0    | Microsoft Corporation          | 
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 | 12.0.30501.0    | Microsoft Corporation          | 
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664 | 12.0.40664.0    | Microsoft Corporation          | 
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 | 12.0.30501.0    | Microsoft Corporation          | 
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 | 12.0.40664.0    | Microsoft Corporation          | 
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211 | 14.44.35211.0   | Microsoft Corporation          | 
+Microsoft Visual C++ v14 Redistributable (x64) - 14.50.35719 | 14.50.35719.0   | Microsoft Corporation          | 
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64) | 10.0.50903      | Microsoft Corporation          | C:\Program Files\Common Files\Microsoft Shared\VSTO\10.0\
+Microsoft Visual Studio Installer                       | 4.4.38.63497    | Microsoft Corporation          | "C:\Program Files (x86)\Microsoft Visual Studio\Installer"
+Microsoft Windows Desktop Runtime - 3.1.32 (x64)        | 3.1.32.31915    | Microsoft Corporation          | 
+Microsoft Windows Desktop Runtime - 6.0.36 (x64)        | 6.0.36.34217    | Microsoft Corporation          | 
+Microsoft Windows Desktop Runtime - 8.0.27 (x64)        | 8.0.27.36030    | Microsoft Corporation          | 
+Microsoft Windows Desktop Runtime - 9.0.16 (x64)        | 9.0.16.36030    | Microsoft Corporation          | 
+Microsoft XNA Framework Redistributable 4.0             | 4.0.20823.0     | Microsoft Corporation          | 
+Mobalytics                                              | 1.802.0         | Overwolf app                   | 
+MOUSE: P.I. For Hire                                    |                 |                                | E:\Games\MOUSE - P.I. For Hire\
+Mozilla Firefox (x64 en-US)                             | 150.0.3         | Mozilla                        | C:\Program Files\Mozilla Firefox
+Mozilla Maintenance Service                             | 146.0           | Mozilla                        | 
+my-app                                                  | 1.0.0           | Gion                           | C:\Users\andya\AppData\Local\my_app
+NASCAR '15 Victory Edition                              |                 | Eutechnyx                      | F:\SteamLibrary\steamapps\common\NASCAR 15
+Need for Speed™ Heat                                    |                 | Electronic Arts, Inc.          | D:\SteamLibrary\steamapps\common\Need for Speed Heat
+Need for Speed™ Heat                                    |                 | Ghost Games                    | D:\SteamLibrary\steamapps\common\Need for Speed Heat
+ninja                                                   | 1.13.2          | ninja-build                    | C:\Users\andya\AppData\Local\Microsoft\WinGet\Packages\Ninja-build.Ninja_Microsoft.Winget.Source_8wekyb3d8bbwe
+Node.js                                                 | 24.14.1         | Node.js Foundation             | 
+Nodebuster                                              |                 | Goblobin                       | F:\SteamLibrary\steamapps\common\Nodebuster
+Noita                                                   |                 | Nolla Games                    | F:\SteamLibrary\steamapps\common\Noita
+Obsidian                                                | 1.12.7          | Obsidian                       | 
+Ollama version 0.23.3                                   | 0.23.3          | Ollama                         | C:\Users\andya\AppData\Local\Programs\Ollama\
+Outplayed                                               | 170.1.11643     | Overwolf app                   | 
+Overwolf                                                | 0.300.0.11      | Overwolf Ltd.                  | C:\Program Files (x86)\Overwolf\
+Paradox Launcher v2                                     | 2.4.0           | Paradox Interactive            | 
+Paradox Vector                                          |                 | Schmidt Workshops              | D:\SteamLibrary\steamapps\common\Paradox Vector
+Passant: A Chess Roguelike Demo                         |                 | Marc Makes Games               | F:\SteamLibrary\steamapps\common\Passant A Chess Roguelike Demo
+PEAK                                                    |                 | Team PEAK                      | F:\SteamLibrary\steamapps\common\PEAK
+Phasmophobia                                            |                 | Kinetic Games                  | 
+Pioneer DDJ_SR Driver                                   | 1.100.000.001   | Pioneer DJ Corporation.        | 
+Planet Coaster 2                                        |                 | Frontier Developments          | F:\SteamLibrary\steamapps\common\Planet Coaster 2
+Planet Zoo                                              |                 | Frontier Developments          | 
+Plex Media Server 1.41.7.9799 (x64)                     | 1.41.7.9799     | Plex, Inc.                     | C:\Program Files\Plex\Plex Media Server\
+Police Stories                                          |                 | HypeTrain Digital              | F:\SteamLibrary\steamapps\common\PoliceStories
+PowerChute Personal Edition                             | 3.1.0           | Schneider Electric             | "C:\Program Files (x86)\APC\PowerChute Personal Edition"
+PULSAR: Lost Colony                                     |                 | Leafy Games                    | F:\SteamLibrary\steamapps\common\PULSARLostColony
+Python 3.11.9 (64-bit)                                  | 3.11.9150.0     | Python Software Foundation     | 
+Python Launcher                                         | 3.11.9150.0     | Python Software Foundation     | 
+RAILROADS Online                                        |                 | Stefan Kelnberger              | D:\SteamLibrary\steamapps\common\Railroads Online
+Rayon 2.7.1                                             | 2.7.1           | rayon.design                   | 
+Realtek High Definition Audio Driver                    | 6.0.9000.1      | Realtek Semiconductor Corp.    | C:\Program Files\Realtek\Audio\HDA
+Recuva                                                  | 1.53            | Piriform                       | C:\Program Files\Recuva
+Retro City Rampage™ DX                                  |                 | Vblank Entertainment, Inc.     | F:\SteamLibrary\steamapps\common\Retro City Rampage
+RipGrep MSVC                                            | 15.1.0          | BurntSushi                     | C:\Users\andya\AppData\Local\Microsoft\WinGet\Packages\BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe
+Rockstar Games Launcher                                 | 1.0.102.2423    | Rockstar Games                 | F:\Rockstar\Launcher
+Rockstar Games SDK                                      | 2.4.0.71        | Rockstar Games                 | 
+RV There Yet?                                           |                 | Nuggets Entertainment          | F:\SteamLibrary\steamapps\common\Ride
+Sandustry Demo                                          |                 | Lantto Games                   | F:\SteamLibrary\steamapps\common\Sandustry Demo
+Satisfactory                                            |                 | Coffee Stain Studios           | 
+Schedule I                                              |                 | TVGS                           | 
+ScummVM 2026.2.0                                        | 2026.2.0        | The ScummVM Team               | F:\SCI\ScummVM\
+Serato DJ Pro                                           | 4.0.1.1508      | Serato Limited                 | 
+Shakedown: Hawaii                                       |                 | Vblank Entertainment, Inc.     | F:\SteamLibrary\steamapps\common\Shakedown Hawaii
+shapez                                                  |                 | Tobias Springer                | F:\SteamLibrary\steamapps\common\shapez.io
+shapez 2                                                |                 | tobspr Games                   | F:\SteamLibrary\steamapps\common\shapez 2
+shapez 2 Demo                                           |                 | tobspr Games                   | C:\Program Files (x86)\Steam\steamapps\common\shapez 2 Demo
+SHENZHEN I/O                                            |                 | Zachtronics                    | F:\SteamLibrary\steamapps\common\SHENZHEN IO
+Shotgun King: The Final Checkmate                       |                 | PUNKCAKE Delicieux             | 
+Signal 8.10.0                                           | 8.10.0          | Signal Messenger, LLC          | 
+Sky Haven                                               |                 | Real Welders                   | F:\SteamLibrary\steamapps\common\Sky Haven
+Slay the Spire                                          |                 | Mega Crit                      | F:\SteamLibrary\steamapps\common\SlayTheSpire
+Spore                                                   |                 | Maxis™                         | F:\SteamLibrary\steamapps\common\Spore
+Star Control: Origins                                   |                 | Stardock Entertainment         | F:\SteamLibrary\steamapps\common\Star Control - Origins
+Star Trek: Voyager - Across the Unknown Demo            |                 | Gamexcite                      | F:\SteamLibrary\steamapps\common\Star Trek Voyager - Across the Unknown Demo
+Star Trucker                                            |                 | Monster and Monster            | 
+STAR WARS Jedi - Fallen Order™                          |                 | Electronic Arts, Inc.          | D:\SteamLibrary\steamapps\common\Jedi Fallen Order
+STAR WARS Jedi: Fallen Order™                           |                 | Respawn Entertainment          | D:\SteamLibrary\steamapps\common\Jedi Fallen Order
+STAR WARS™ Battlefront™ II                              |                 | Electronic Arts, Inc.          | D:\SteamLibrary\steamapps\common\STAR WARS Battlefront II
+StarCraft                                               |                 | Blizzard Entertainment         | F:\Battle.net\StarCraft
+StarCraft II                                            |                 | Blizzard Entertainment         | F:\Battle.net\StarCraft II
+Steam                                                   | 2.10.91.91      | Valve Corporation              | 
+Stellaris                                               |                 | Paradox Development Studio     | 
+Stoat                                                   | 1.3.0           | Revolt Platforms LTD           | C:\Users\andya\AppData\Local\Stoat
+Streamlabs Desktop 1.15.1                               | 1.15.1          | General Workings, Inc.         | 
+Sunday Rivals                                           |                 | 26k                            | F:\SteamLibrary\steamapps\common\Sunday Rivals
+Supreme Commander: Forged Alliance                      |                 | Gas Powered Games              | F:\SteamLibrary\steamapps\common\Supreme Commander Forged Alliance
+Tape to Tape                                            |                 | Excellent Rectangle            | F:\SteamLibrary\steamapps\common\Tape to Tape
+Teams Machine-Wide Installer                            | 1.5.0.4689      | Microsoft Corporation          | 
+Terraria                                                |                 | Re-Logic                       | 
+Terror of Hemasaurus                                    |                 | Loren Lemcke                   | D:\SteamLibrary\steamapps\common\Terror of Hemasaurus
+The Farmer Was Replaced                                 |                 | Timon Herzog                   | F:\SteamLibrary\steamapps\common\The Farmer Was Replaced
+The Powder Toy                                          |                 | The Powder Toy Team            | F:\SteamLibrary\steamapps\common\Powder
+The Ur-Quan Masters MegaMod v0.8.3                      | v0.8.3          |                                | 
+Thomas & Friends: Wonders...                            |                 |                                | E:\Games\Thomas & Friends - Wonders of Sodor\
+Thunderstore Mod Manager                                | 1.119.0         | Overwolf app                   | 
+Tiny Kingdom Demo                                       |                 | neltile                        | F:\SteamLibrary\steamapps\common\Tiny Kingdom Demo
+TreeSize Free V4.7.3 (64 bit)                           | 4.7.3           | JAM Software                   | C:\Program Files\JAM Software\TreeSize Free\
+Turmoil                                                 |                 | Gamious                        | F:\SteamLibrary\steamapps\common\Turmoil
+TurtleWoW                                               | 2.2.8           | turtle-wow                     | "F:\Turtle-WoW"
+Two Point Campus                                        |                 | Two Point Studios              | 
+Two Point Hospital                                      |                 | Two Point Studios              | F:\SteamLibrary\steamapps\common\TPH
+Ultima Online Classic Client                            |                 | Electronic Arts                | 
+Update for x64-based Windows Systems (KB5001716)        | 8.94.0.0        | Microsoft Corporation          | 
+Upload Labs                                             |                 | EnigmaDev Studios              | F:\SteamLibrary\steamapps\common\Upload Labs
+Valheim                                                 |                 | Iron Gate AB                   | 
+Vampire Survivors                                       |                 | poncle                         | 
+Visual Studio Build Tools 2022                          | 17.14.28        | Microsoft Corporation          | C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+Visual Studio Community 2022 (2)                        | 17.14.29        | Microsoft Corporation          | C:\Program Files\Microsoft Visual Studio\2022\Community
+VLC media player                                        | 3.0.17.4        | VideoLAN                       | C:\Program Files (x86)\VideoLAN\VLC
+Voicemod                                                | 2.48.0.0        | Voicemod, Inc., Sucursal en EspaÃ±a | C:\Program Files\Voicemod Desktop\
+Void Crew                                               |                 | Hutlihut Games                 | C:\Program Files (x86)\Steam\steamapps\common\Void Crew
+Vortex                                                  | 1.15.2          | Black Tree Gaming Ltd.         | 
+vs_CoreEditorFonts                                      | 17.7.40001      | Microsoft Corporation          | 
+Warcraft Rumble                                         |                 | Blizzard Entertainment         | F:\Battle.net\Warcraft Rumble
+Wargroove                                               |                 | Chucklefish                    | 
+Warhammer 40,000: Dawn of War II - Anniversary Edition  |                 | Relic Entertainment            | F:\SteamLibrary\steamapps\common\Dawn of War 2
+Warside                                                 |                 | LAVABIRD                       | 
+Warside Demo                                            |                 | LAVABIRD                       | D:\SteamLibrary\steamapps\common\Warside Demo
+WinAGI GDS                                              | 2.1.15          | Andrew Korson                  | F:\WinAgi\
+Windows SDK AddOn                                       | 10.1.0.0        | Microsoft Corporation          | 
+Windows Software Development Kit - Windows 10.0.26100.7705 | 10.1.26100.7705 | Microsoft Corporation          | 
+WinRAR 6.24 (64-bit)                                    | 6.24.0          | win.rar GmbH                   | C:\Program Files\WinRAR\
+Winxvideo AI                                            | 3.1             | Digiarty, Inc.                 | 
+Xenopurge Demo                                          |                 | Traptics                       | F:\SteamLibrary\steamapps\common\Xenopurge Demo
+You Can Kana                                            |                 | James Moulang                  | C:\Program Files (x86)\Steam\steamapps\common\You Can Kana
+Zoom                                                    | 5.17.7 (31859)  | Zoom Video Communications, Inc. | C:\Users\andya\AppData\Roaming\Zoom\bin
+
+============================================================
+  2. Microsoft Store / UWP apps
+============================================================
+Count: 57
+
+13199chin.bimbo.SkiFree                            | 2.1.0.0         | CN=B6DF5D1D-A392-4736-9F08-9A7CC889E45D
+aimgr                                              | 0.20.47.0       | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+CanonicalGroupLimited.Ubuntu                       | 2404.1.68.0     | CN=23596F84-C3EA-4CD8-A7DF-550DCE37BCD0
+Claude                                             | 1.7196.0.0      | CN="Anthropic, PBC", O="Anthropic, PBC", L=San Francisco, S=California, C=US, SERIALNUMBER=4860621, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US
+Microsoft.4297127D64EC6                            | 2.6.2.0         | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.549981C3F5F10                            | 4.2308.1005.0   | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.BingSearch                               | 1.1.40.0        | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.BingWeather                              | 4.54.63040.0    | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.Copilot                                  | 148.0.3967.54   | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.DesktopAppInstaller                      | 1.28.240.0      | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.GamingApp                                | 2605.1001.12.0  | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.GamingServices                           | 36.113.2002.0   | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.GetHelp                                  | 10.2409.41132.0 | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.Getstarted                               | 10.2312.1.0     | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.HEIFImageExtension                       | 1.2.30.0        | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.HEVCVideoExtensions                      | 2.4.42.0        | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.Microsoft3DViewer                        | 7.2602.8012.0   | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.MicrosoftEdge.Stable                     | 140.0.3485.54   | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.MicrosoftSolitaireCollection             | 4.25.4290.0     | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.MicrosoftStickyNotes                     | 6.1.4.0         | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.MinecraftUWP                             | 1.26.2101.0     | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.MixedReality.Portal                      | 2000.21051.1282.0 | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.MSPaint                                  | 6.2410.13017.0  | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.Office.ActionsServer                     | 16.0.19929.20172 | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.OfficePushNotificationUtility            | 16.0.19929.20172 | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.OutlookForWindows                        | 1.2025.1007.400 | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.ScreenSketch                             | 10.2008.3001.0  | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.SeaofThieves                             | 2.148.3469.0    | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.StorePurchaseApp                         | 22603.1401.2.0  | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.VP9VideoExtensions                       | 1.2.12.0        | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.Wallet                                   | 2.4.18324.0     | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.WebMediaExtensions                       | 1.2.17.0        | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.WebpImageExtension                       | 1.2.14.0        | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.Windows.DevHome                          | 0.2100.858.0    | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.Windows.Photos                           | 2026.11020.20001.0 | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.WindowsAlarms                            | 11.2512.0.0     | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.WindowsCalculator                        | 11.2508.4.0     | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.WindowsCamera                            | 2025.2510.2.0   | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+microsoft.windowscommunicationsapps                | 16005.14326.22342.0 | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.WindowsFeedbackHub                       | 1.2602.13304.0  | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.WindowsMaps                              | 11.2506.3.0     | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.WindowsSoundRecorder                     | 10.2103.28.0    | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.WindowsStore                             | 22603.1401.19.0 | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.Winget.Source                            | 2026.510.216.10 | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.Xbox.TCUI                                | 1.24.10001.0    | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.XboxApp                                  | 48.104.4001.0   | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.XboxGameOverlay                          | 1.54.4001.0     | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.XboxGamingOverlay                        | 7.326.4151.0    | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.XboxIdentityProvider                     | 12.130.16001.0  | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.XboxSpeechToTextOverlay                  | 1.21.13002.0    | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.YourPhone                                | 1.25072.79.0    | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.ZuneMusic                                | 11.2603.12.0    | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Microsoft.ZuneVideo                                | 10.25121.10051.0 | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+MicrosoftCorporationII.WindowsSubsystemForLinux    | 2.7.3.0         | CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+MicrosoftWindows.CrossDevice                       | 1.25072.59.0    | CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+OpenAI.Codex                                       | 26.513.4821.0   | CN=50BDFD77-8903-4850-9FFE-6E8522F64D5B
+TradingView.Desktop                                | 2.9.6.6767      | CN="TradingView, Inc.", O="TradingView, Inc.", S=Ohio, C=US
+
+============================================================
+  3. Steam library
+============================================================
+Steam root: C:\Program Files (x86)\Steam\steamapps
+
+  [1031900   ] You Can Kana
+  [228980    ] Steamworks Common Redistributables
+  [246840    ] FATE
+  [293520    ] Carnivores: Dinosaur Hunter Reborn
+
+
+============================================================
+  4. winget list
+============================================================
+
+   - 
+   \ 
+   | 
+                                                                                                                        
+
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  1024 KB / 2.94 MB
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  2.00 MB / 2.94 MB
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  2.94 MB / 2.94 MB
+                                                                                                                        
+
+  ΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  0%
+  ΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  0%
+  ΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  1%
+  ΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  2%
+  ΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  3%
+  ΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  4%
+  ΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  5%
+  ΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  6%
+  ΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  7%
+  ΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  8%
+  ΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  9%
+  ΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  10%
+  ΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  11%
+  ΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  12%
+  ΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  13%
+  ΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  14%
+  ΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  15%
+  ΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  16%
+  ΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  17%
+  ΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  18%
+  ΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  19%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  20%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  21%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  22%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  23%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  24%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  25%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  26%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  27%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  28%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  28%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  30%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  31%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  32%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  34%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  35%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  36%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  37%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  38%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  39%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  40%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  41%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  42%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  43%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  44%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  45%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  46%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  47%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  48%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  49%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  50%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  51%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  52%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  53%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  54%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  55%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  56%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  56%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  57%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  59%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  60%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  61%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  62%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  69%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  72%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆΓûÆΓûÆΓûÆΓûÆΓûÆ  82%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆ  99%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÆ  99%
+  ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  100%
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+                                                                                                                        
+Name                                      Id                                         Version          Available  Source
+-----------------------------------------------------------------------------------------------------------------------
+Streamlabs Desktop 1.15.1                 Streamlabs.Streamlabs                      1.15.1           1.20.9     winget
+Vortex                                    NexusMods.Vortex                           1.15.2           1.16.8     winget
+AMD Software                              ARP\Machine\X64\AMD Catalyst Install ManaΓÇª 24.9.1                      
+Audacity 3.7.1                            Audacity.Audacity                          3.7.1            3.7.7      winget
+Docker Desktop                            Docker.DockerDesktop                       4.69.0           4.73.0     winget
+Fairlight Audio Accelerator Utility       ARP\Machine\X64\FairlightAudioAcceleratorΓÇª 1.0.15                      
+Git                                       Git.Git                                    2.53.0.2         2.54.0     winget
+Microsoft Visual Studio 2010 Tools for OΓÇª Microsoft.VSTOR                            10.0.50903       10.0.60917 winget
+Mozilla Firefox (x64 en-US)               ARP\Machine\X64\Mozilla Firefox            150.0.3                     
+Mozilla Maintenance Service               ARP\Machine\X64\MozillaMaintenanceService  146.0                       
+Microsoft OneDrive                        Microsoft.OneDrive                         26.070.0414.0001            winget
+Recuva                                    Piriform.Recuva                            1.53.2096        1.54.120   winget
+ScummVM 2026.2.0                          ScummVM.ScummVM                            2026.2.0                    winget
+Terror of Hemasaurus                      ARP\Machine\X64\Steam App 1016180          Unknown                     
+You Can Kana                              ARP\Machine\X64\Steam App 1031900          Unknown                     
+Paradox Vector                            ARP\Machine\X64\Steam App 1051840          Unknown                     
+Terraria                                  ARP\Machine\X64\Steam App 105600           Unknown                     
+Void Crew                                 ARP\Machine\X64\Steam App 1063420          Unknown                     
+Baldur's Gate 3                           ARP\Machine\X64\Steam App 1086940          Unknown                     
+Legend Bowl                               ARP\Machine\X64\Steam App 1106340          Unknown                     
+The Powder Toy                            ARP\Machine\X64\Steam App 1148350          Unknown                     
+STAR WARS Jedi: Fallen OrderTM            ARP\Machine\X64\Steam App 1172380          Unknown                     
+Need for SpeedTM Heat                     ARP\Machine\X64\Steam App 1222680          Unknown                     
+STAR WARSTM BattlefrontTM II              ARP\Machine\X64\Steam App 1237950          Unknown                     
+Jurassic World Evolution 2                ARP\Machine\X64\Steam App 1244460          Unknown                     
+Ex-Zodiac                                 ARP\Machine\X64\Steam App 1249480          Unknown                     
+HOT WHEELS UNLEASHEDTM                    ARP\Machine\X64\Steam App 1271700          Unknown                     
+Sunday Rivals                             ARP\Machine\X64\Steam App 1297790          Unknown                     
+shapez                                    ARP\Machine\X64\Steam App 1318690          Unknown                     
+Animaze                                   ARP\Machine\X64\Steam App 1364390          Unknown                     
+LEGO┬« Builder's Journey                   ARP\Machine\X64\Steam App 1544360          Unknown                     
+Warhammer 40,000: Dawn of War II - AnnivΓÇª ARP\Machine\X64\Steam App 15620            Unknown                     
+Tape to Tape                              ARP\Machine\X64\Steam App 1566200          Unknown                     
+Two Point Campus                          ARP\Machine\X64\Steam App 1649080          Unknown                     
+ABRISS                                    ARP\Machine\X64\Steam App 1671480          Unknown                     
+Big Boy Boxing Demo                       ARP\Machine\X64\Steam App 1682630          Unknown                     
+RAILROADS Online                          ARP\Machine\X64\Steam App 1696810          Unknown                     
+Automation                                ARP\Machine\X64\Steam App 1698690          Unknown                     
+Spore                                     ARP\Machine\X64\Steam App 17390            Unknown                     
+Vampire Survivors                         ARP\Machine\X64\Steam App 1794680          Unknown                     
+Ghost Watchers                            ARP\Machine\X64\Steam App 1850740          Unknown                     
+Shotgun King: The Final Checkmate         ARP\Machine\X64\Steam App 1972440          Unknown                     
+Good Company Demo                         ARP\Machine\X64\Steam App 2009690          Unknown                     
+Retro City RampageTM DX                   ARP\Machine\X64\Steam App 204630           Unknown                     
+The Farmer Was Replaced                   ARP\Machine\X64\Steam App 2060160          Unknown                     
+shapez 2                                  ARP\Machine\X64\Steam App 2162800          Unknown                     
+Hotline Miami                             ARP\Machine\X64\Steam App 219150           Unknown                     
+King Arthur's Gold                        ARP\Machine\X64\Steam App 219830           Unknown                     
+CRUMB                                     ARP\Machine\X64\Steam App 2198800          Unknown                     
+Kerbal Space Program                      ARP\Machine\X64\Steam App 220200           Unknown                     
+Warside                                   ARP\Machine\X64\Steam App 2368300          Unknown                     
+Balatro                                   ARP\Machine\X64\Steam App 2379780          Unknown                     
+Star Trucker                              ARP\Machine\X64\Steam App 2380050          Unknown                     
+FATE                                      ARP\Machine\X64\Steam App 246840           Unknown                     
+PULSAR: Lost Colony                       ARP\Machine\X64\Steam App 252870           Unknown                     
+shapez 2 Demo                             ARP\Machine\X64\Steam App 2642190          Unknown                     
+Emberward Demo                            ARP\Machine\X64\Steam App 2643980          Unknown                     
+Free Stars: The Ur-Quan Masters           ARP\Machine\X64\Steam App 2645580          Unknown                     
+Planet Coaster 2                          ARP\Machine\X64\Steam App 2688950          Unknown                     
+Star Control: Origins                     ARP\Machine\X64\Steam App 271260           Unknown                     
+Bingle Bingle                             ARP\Machine\X64\Steam App 2789810          Unknown                     
+Tiny Kingdom Demo                         ARP\Machine\X64\Steam App 2793720          Unknown                     
+Stellaris                                 ARP\Machine\X64\Steam App 281990           Unknown                     
+Harry Potter: Quidditch Champions         ARP\Machine\X64\Steam App 2878600          Unknown                     
+Content Warning                           ARP\Machine\X64\Steam App 2881650          Unknown                     
+Carnivores: Dinosaur Hunter Reborn        ARP\Machine\X64\Steam App 293520           Unknown                     
+Jumplight Odyssey (Original Game SoundtrΓÇª ARP\Machine\X64\Steam App 2985180          Unknown                     
+Nodebuster                                ARP\Machine\X64\Steam App 3107330          Unknown                     
+Schedule I                                ARP\Machine\X64\Steam App 3164500          Unknown                     
+Xenopurge Demo                            ARP\Machine\X64\Steam App 3175750          Unknown                     
+Warside Demo                              ARP\Machine\X64\Steam App 3222310          Unknown                     
+Grand Theft Auto V Enhanced               ARP\Machine\X64\Steam App 3240220          Unknown                     
+Foundation Demo                           ARP\Machine\X64\Steam App 3256650          Unknown                     
+Heroes of Hammerwatch II Demo             ARP\Machine\X64\Steam App 3264410          Unknown                     
+Insider Trading Demo                      ARP\Machine\X64\Steam App 3271420          Unknown                     
+Passant: A Chess Roguelike Demo           ARP\Machine\X64\Steam App 3436100          Unknown                     
+NASCAR '15 Victory Edition                ARP\Machine\X64\Steam App 345890           Unknown                     
+Locomoto Demo                             ARP\Machine\X64\Steam App 3462550          Unknown                     
+Sandustry Demo                            ARP\Machine\X64\Steam App 3490390          Unknown                     
+Galaxy of Pen & Paper                     ARP\Machine\X64\Steam App 349790           Unknown                     
+PEAK                                      ARP\Machine\X64\Steam App 3527290          Unknown                     
+A Bumpy Ride Demo                         ARP\Machine\X64\Steam App 3544800          Unknown                     
+Upload Labs                               ARP\Machine\X64\Steam App 3606890          Unknown                     
+Turmoil                                   ARP\Machine\X64\Steam App 361280           Unknown                     
+Backseat Drivers Demo                     ARP\Machine\X64\Steam App 3634900          Unknown                     
+Hacknet                                   ARP\Machine\X64\Steam App 365450           Unknown                     
+RV There Yet?                             ARP\Machine\X64\Steam App 3949040          Unknown                     
+Star Trek: Voyager - Across the Unknown ΓÇª ARP\Machine\X64\Steam App 4054540          Unknown                     
+Empires of the Undergrowth                ARP\Machine\X64\Steam App 463530           Unknown                     
+SHENZHEN I/O                              ARP\Machine\X64\Steam App 504210           Unknown                     
+Satisfactory                              ARP\Machine\X64\Steam App 526870           Unknown                     
+Two Point Hospital                        ARP\Machine\X64\Steam App 535930           Unknown                     
+Police Stories                            ARP\Machine\X64\Steam App 539470           Unknown                     
+Deep Rock Galactic                        ARP\Machine\X64\Steam App 548430           Unknown                     
+HELLDIVERSTM 2                            ARP\Machine\X64\Steam App 553850           Unknown                     
+Shakedown: Hawaii                         ARP\Machine\X64\Steam App 598730           Unknown                     
+Wargroove                                 ARP\Machine\X64\Steam App 607050           Unknown                     
+Slay the Spire                            ARP\Machine\X64\Steam App 646570           Unknown                     
+Sky Haven                                 ARP\Machine\X64\Steam App 674090           Unknown                     
+Planet Zoo                                ARP\Machine\X64\Steam App 703080           Unknown                     
+EXAPUNKS                                  ARP\Machine\X64\Steam App 716490           Unknown                     
+Crash BandicootTM N. Sane Trilogy         ARP\Machine\X64\Steam App 731490           Unknown                     
+Phasmophobia                              ARP\Machine\X64\Steam App 739630           Unknown                     
+Noita                                     ARP\Machine\X64\Steam App 881100           Unknown                     
+Valheim                                   ARP\Machine\X64\Steam App 892970           Unknown                     
+Commander Keen Complete Pack              ARP\Machine\X64\Steam App 9180             Unknown                     
+Supreme Commander: Forged Alliance        ARP\Machine\X64\Steam App 9420             Unknown                     
+Hogwarts Legacy                           ARP\Machine\X64\Steam App 990080           Unknown                     
+TreeSize Free V4.7.3 (64 bit)             JAMSoftware.TreeSize.Free                  < 4.8.1.610      4.8.1.610  winget
+Microsoft Visio - en-us                   ARP\Machine\X64\VisioProRetail - en-us     16.0.19929.20172            
+Microsoft Visio - es-es                   ARP\Machine\X64\VisioProRetail - es-es     16.0.19929.20172            
+Microsoft Visio - fr-fr                   ARP\Machine\X64\VisioProRetail - fr-fr     16.0.19929.20172            
+WinRAR 6.24 (64-bit)                      RARLab.WinRAR                              6.24.0           7.22.0     winget
+Aseprite 1.3.17                           ARP\Machine\X64\{11AD6B99-637C-47B7-8925-ΓÇª Unknown                     
+CMake                                     Kitware.CMake                              4.3.0            4.3.2      winget
+Node.js                                   OpenJS.NodeJS.LTS                          24.14.1          24.15.0    winget
+Microsoft Visual C++ 2010  x64 RedistribΓÇª Microsoft.VCRedist.2010.x64                10.0.40219                  winget
+Microsoft Update Health Tools             ARP\Machine\X64\{1FC1A6C2-576E-489A-9B4A-ΓÇª 3.74.0.0                    
+GitHub CLI                                GitHub.cli                                 2.89.0           2.92.0     winget
+DaVinci Resolve Control Panels            ARP\Machine\X64\{3739CA49-792F-4F1F-9B76-ΓÇª 2.3.0.0                     
+Logitech G HUB                            Logitech.GHUB                              2024.9.649333    2026.3.88ΓÇª winget
+Microsoft System CLR Types for SQL ServeΓÇª Microsoft.CLRTypesSQLServer.2019           15.0.2000.5                 winget
+Plex Media Server 1.41.7.9799 (x64)       Plex.PlexMediaServer                       1.41.7.9799      1.43.1.10ΓÇª winget
+Microsoft Visual Studio Installer         ARP\Machine\X64\{6F320B93-EE3C-4826-85E0-ΓÇª 4.4.38.63497                
+Java 8 Update 481 (64-bit)                Oracle.JavaRuntimeEnvironment              8.0.4810.10      8.0.4910.ΓÇª winget
+Java(TM) SE Development Kit 25.0.1 (64-bΓÇª ARP\Machine\X64\{72BBCED8-ABF7-5620-B89C-ΓÇª 25.0.1.0                    
+Microsoft JDK with Hotspot 21.0.3+9 (x64) Microsoft.OpenJDK.21                       21.0.3.9         21.0.11.10 winget
+DaVinci Resolve                           ARP\Machine\X64\{81250E7D-5132-434E-9FBB-ΓÇª 19.1.20003                  
+Voicemod                                  ARP\Machine\X64\{8435A407-F778-4647-9CDB-ΓÇª 2.48.0.0                    
+Blackmagic RAW Common Components          ARP\Machine\X64\{B276A28D-9003-4448-B993-ΓÇª 4.3                         
+Update for x64-based Windows Systems (KBΓÇª ARP\Machine\X64\{B8D93870-98D1-4980-AFCA-ΓÇª 8.94.0.0                    
+Kitten Space Agency                       ARP\Machine\X64\{BA65F5AF-CD20-48A4-A957-ΓÇª 2025.11.4.2791              
+Paradox Launcher v2                       ParadoxInteractive.ParadoxLauncher         2.4.0                       winget
+Microsoft GameInput                       Microsoft.GameInput                        3.3.182.0        3.3.195.0  winget
+Google Earth Pro                          Google.EarthPro                            7.3.7.1155                  winget
+Visual Studio Build Tools 2022            Microsoft.VisualStudio.2022.BuildTools     17.14.28         17.14.32   winget
+Adventure Game Studio 4.0.0 Alpha31       ARP\Machine\X86\572bfb67-1c66-4e44-bdad-3ΓÇª 4.00.00.27                  
+Visual Studio Community 2022 (2)          Microsoft.VisualStudio.2022.Community      17.14.29         17.14.32   winget
+PowerChute Personal Edition               ARP\Machine\X86\APC                        3.1.0                       
+Battle.net                                ARP\Machine\X86\Battle.net                 Unknown                     
+Diablo II Resurrected                     ARP\Machine\X86\Diablo II Resurrected      Unknown                     
+Diablo III                                ARP\Machine\X86\Diablo III                 Unknown                     
+Diablo IV                                 ARP\Machine\X86\Diablo IV                  Unknown                     
+DroidKit                                  ARP\Machine\X86\DroidKit                   1.0.1.3                     
+Google Chrome                             Google.Chrome.EXE                          148.0.7778.168              winget
+HandBrake 1.8.2                           HandBrake.HandBrake                        1.8.2            1.11.1     winget
+Hearthstone                               ARP\Machine\X86\Hearthstone                Unknown                     
+Jellyfin Server 10.9.10                   Jellyfin.Server                            10.9.10          10.11.8    winget
+K-Lite Codec Pack 18.0.5 Standard         CodecGuide.K-LiteCodecPack.Standard        18.0.5           19.7.0     winget
+LLVM                                      LLVM.LLVM                                  22.1.1           22.1.5     winget
+MOUSE: P.I. For Hire                      ARP\Machine\X86\MOUSE: P.I. For Hire_is1   Unknown                     
+Copilot                                   ARP\Machine\X86\Microsoft Copilot          148.0.3967.54               
+Microsoft Edge                            Microsoft.Edge                             148.0.3967.70               winget
+Microsoft Office Professional Plus 2010   ARP\Machine\X86\Office14.PROPLUS           14.0.4734.1000              
+Overwolf                                  ARP\Machine\X86\Overwolf                   0.300.0.11                  
+Pioneer DDJ_SR Driver                     ARP\Machine\X86\Pioneer DDJ_SR ASIO        1.100.000.001               
+Rockstar Games Launcher                   RockstarGames.Launcher                     1.0.102.2423     1.0.106.2ΓÇª winget
+Rockstar Games SDK                        ARP\Machine\X86\Rockstar Games Social Club 2.4.0.71                    
+StarCraft                                 ARP\Machine\X86\StarCraft                  Unknown                     
+StarCraft II                              ARP\Machine\X86\StarCraft II               Unknown                     
+Steam                                     Valve.Steam                                2.10.91.91                  winget
+The Ur-Quan Masters MegaMod v0.8.3        ARP\Machine\X86\The Ur-Quan Masters MegaMΓÇª v0.8.3                      
+Thomas & Friends: Wonders...              ARP\Machine\X86\Thomas & Friends: WondersΓÇª Unknown                     
+Ultima Online Classic Client              ARP\Machine\X86\Ultima Online Classic      Unknown                     
+VLC media player                          VideoLAN.VLC                               3.0.17.4         3.0.23     winget
+Warcraft Rumble                           ARP\Machine\X86\Warcraft Rumble            Unknown                     
+Winxvideo AI                              ARP\Machine\X86\Winxvideo AI               3.1                         
+Microsoft Visual C++ 2013 RedistributablΓÇª Microsoft.VCRedist.2013.x64                12.0.40664.0                winget
+Microsoft Visual C++ 2013 RedistributablΓÇª Microsoft.VCRedist.2013.x64                12.0.30501.0                winget
+Microsoft Windows Desktop Runtime - 6.0.ΓÇª Microsoft.DotNet.DesktopRuntime.6          6.0.36                      winget
+Microsoft Visual C++ 2015-2022 RedistribΓÇª Microsoft.VCRedist.2015+.x86               14.44.35211.0    14.51.362ΓÇª winget
+Microsoft Windows Desktop Runtime - 3.1.ΓÇª Microsoft.DotNet.DesktopRuntime.3_1        3.1.32                      winget
+Windows SDK AddOn                         ARP\Machine\X86\{13D2A7A2-1B42-4C03-8F0F-ΓÇª 10.1.0.0                    
+vs_CoreEditorFonts                        ARP\Machine\X86\{1851460E-0E63-4117-B5BA-ΓÇª 17.7.40001                  
+Microsoft XNA Framework Redistributable ΓÇª Microsoft.XNARedist                        4.0.20823.0      4.0.30901ΓÇª winget
+Microsoft Windows Desktop Runtime - 8.0.ΓÇª Microsoft.DotNet.DesktopRuntime.8          8.0.27                      winget
+Microsoft Visual C++ 2012 RedistributablΓÇª Microsoft.VCRedist.2012.x86                11.0.61030.0                winget
+LaCie Desktop Manager 2.7.0               ARP\Machine\X86\{3845209F-142E-4F48-B61A-ΓÇª 2.7.0                       
+GOG GALAXY                                GOG.Galaxy                                 2.0.77.22        2.0.98.44  winget
+Teams Machine-Wide Installer              Microsoft.Teams.Classic                    1.5.0.4689       1.8.00.27ΓÇª winget
+Microsoft Teams                           Microsoft.Teams.Classic                    1.5.00.4689                 winget
+Epic Online Services                      ARP\Machine\X86\{786992A0-5C37-4552-B402-ΓÇª 4.3.0                       
+Madden NFL 19                             ARP\Machine\X86\{85D40E79-384C-4760-9056-ΓÇª 1.0.51.54377                
+Chrome Remote Desktop Host                Google.ChromeRemoteDesktopHost             148.0.7778.23               winget
+Need for SpeedTM Heat                     ARP\Machine\X86\{8DA46384-7F54-4265-B90F-ΓÇª Unknown                     
+STAR WARSTM BattlefrontTM II              ARP\Machine\X86\{8a882ce0-0c0b-4eb2-850c-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2760ΓÇª ARP\Machine\X86\{90140000-0011-0000-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2494ΓÇª ARP\Machine\X86\{90140000-0011-0000-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-0011-0000-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2825ΓÇª ARP\Machine\X86\{90140000-0011-0000-0000-ΓÇª Unknown                     
+Definition Update for Microsoft Office 2ΓÇª ARP\Machine\X86\{90140000-0011-0000-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-0015-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-0016-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-0018-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-0019-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-001A-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-001B-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-001F-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-001F-040C-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-001F-0C0A-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-002A-0000-1000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-002A-0409-1000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-002C-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-0044-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-006E-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-00A1-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-00BA-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-0115-0409-0000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-0116-0409-1000-ΓÇª Unknown                     
+Update for Microsoft Office 2010 (KB2553ΓÇª ARP\Machine\X86\{90140000-0117-0409-0000-ΓÇª Unknown                     
+Microsoft Visual C++ v14 RedistributableΓÇª Microsoft.VCRedist.2015+.x64               14.50.35719.0    14.51.362ΓÇª winget
+Serato DJ Pro                             ARP\Machine\X86\{9bfa6852-e0d7-4318-ae96-ΓÇª 4.0.1.1508                  
+Microsoft .NET SDK 8.0.421 (x64)          Microsoft.DotNet.SDK.8                     8.0.421                     winget
+Microsoft Visual C++ 2013 RedistributablΓÇª Microsoft.VCRedist.2013.x86                12.0.40664.0                winget
+Microsoft Visual C++ 2013 RedistributablΓÇª Microsoft.VCRedist.2013.x86                12.0.30501.0                winget
+Epic Games Launcher                       EpicGames.EpicGamesLauncher                1.3.93.0         1.3.176.0  winget
+STAR WARS Jedi - Fallen OrderTM           ARP\Machine\X86\{D00A89F1-2D8C-4589-B1D1-ΓÇª Unknown                     
+Microsoft Visual C++ 2010  x86 RedistribΓÇª Microsoft.VCRedist.2010.x86                10.0.40219                  winget
+Realtek High Definition Audio Driver      ARP\Machine\X86\{F132AF7F-7BCA-4EDE-8A7C-ΓÇª 6.0.9000.1                  
+Python Launcher                           Python.Launcher                            3.11.9           3.13.5     winget
+WinAGI GDS                                ARP\Machine\X86\{FD994462-C411-48CB-A928-ΓÇª 2.1.15                      
+Microsoft Windows Desktop Runtime - 9.0.ΓÇª Microsoft.DotNet.DesktopRuntime.9          9.0.16                      winget
+Windows Software Development Kit - WindoΓÇª Microsoft.WindowsSDK.10.0.26100            10.0.26100.7705             winget
+Microsoft Visual C++ 2012 RedistributablΓÇª Microsoft.VCRedist.2012.x64                11.0.61030.0                winget
+EA app                                    ElectronicArts.EADesktop                   13.396.0.5909    13.700.0.ΓÇª winget
+Claude                                    ARP\User\X64\28ce5790fd8c18c2946eb9d77458ΓÇª 1.0                         
+Signal 8.10.0                             OpenWhisperSystems.Signal                  8.10.0                      winget
+Claude Code                               Anthropic.ClaudeCode                       2.1.114          2.1.143    winget
+BitTorrent                                ARP\User\X64\BitTorrent                    7.11.0.47225                
+Bun                                       ARP\User\X64\Bun                           Unknown                     
+RipGrep MSVC                              BurntSushi.ripgrep.MSVC                    15.1.0                      winget
+Discord                                   ARP\User\X64\Discord                       1.0.9237                    
+GameRanger                                ARP\User\X64\GameRanger                    Unknown                     
+FFmpeg                                    Gyan.FFmpeg                                8.1.1                       winget
+ninja                                     Ninja-build.Ninja                          1.13.2                      winget
+Thunderstore Mod Manager                  ARP\User\X64\Overwolf_ahpflogoookodlegojjΓÇª 1.119.0                     
+CurseForge                                ARP\User\X64\Overwolf_cchhcaiapeikjbdbpfpΓÇª 1.304.4.3704                
+Outplayed                                 ARP\User\X64\Overwolf_cghphpbjeabdkomiphiΓÇª 170.1.11643                 
+Mobalytics                                ARP\User\X64\Overwolf_kccgdmdllebbgifgafjΓÇª 1.802.0                     
+Stoat                                     Stoat.Stoat                                1.3.0                       winget
+TurtleWoW                                 ARP\User\X64\TurtleWoW                     2.2.8                       
+Zoom                                      Zoom.Zoom.EXE                              5.17.7 (31859)   7.0.2 (34ΓÇª winget
+Obsidian                                  Obsidian.Obsidian                          1.12.7                      winget
+Chrome Remote Desktop                     ARP\User\X64\cca85d7254f043e023d3a5d7f42aΓÇª 1.0                         
+Rayon 2.7.1                               ARP\User\X64\fb0943a7-77c4-530f-8f2d-1416ΓÇª 2.7.1                       
+my-app                                    ARP\User\X64\my_app                        1.0.0                       
+Python 3.11.9 (64-bit)                    Python.Python.3.11                         3.11.9                      winget
+Ollama version 0.23.3                     Ollama.Ollama                              0.23.3           0.24.0     winget
+Cursor (User)                             Anysphere.Cursor                           3.3.30           3.4.20     winget
+SkiFree                                   MSIX\13199chin.bimbo.SkiFree_2.1.0.0_neutΓÇª 2.1.0.0                     
+Ubuntu                                    Canonical.Ubuntu                           2404.1.68.0                 winget
+Claude                                    Anthropic.Claude                           1.7196.0.0       1.7196.1   winget
+Minecraft for Windows                     MSIX\MICROSOFT.MINECRAFTUWP_1.26.2101.0_xΓÇª 1.26.2101.0                 
+Minecraft Launcher                        MSIX\Microsoft.4297127D64EC6_2.6.2.0_x64_ΓÇª 2.6.2.0                     
+Cortana                                   MSIX\Microsoft.549981C3F5F10_4.2308.1005.ΓÇª 4.2308.1005.0               
+Microsoft Bing                            MSIX\Microsoft.BingSearch_1.1.40.0_x64__8ΓÇª 1.1.40.0                    
+MSN Weather                               MSIX\Microsoft.BingWeather_4.54.63040.0_xΓÇª 4.54.63040.0                
+Copilot                                   MSIX\Microsoft.Copilot_148.0.3967.54_neutΓÇª 148.0.3967.54               
+App Installer                             Microsoft.AppInstaller                     1.28.240.0                  winget
+DirectX                                   Microsoft.DirectX                          9.29.1974.0                 winget
+DirectX                                   Microsoft.DirectX                          9.29.1974.0                 winget
+Xbox                                      MSIX\Microsoft.GamingApp_2605.1001.12.0_xΓÇª 2605.1001.12.0              
+Gaming Services                           MSIX\Microsoft.GamingServices_36.113.2002ΓÇª 36.113.2002.0               
+Get Help                                  MSIX\Microsoft.GetHelp_10.2409.41132.0_x6ΓÇª 10.2409.41132.0             
+Microsoft Tips                            MSIX\Microsoft.Getstarted_10.2312.1.0_x64ΓÇª 10.2312.1.0                 
+HEIF Image Extension                      MSIX\Microsoft.HEIFImageExtension_1.2.30.ΓÇª 1.2.30.0                    
+HEVC Video Extensions                     MSIX\Microsoft.HEVCVideoExtensions_2.4.42ΓÇª 2.4.42.0                    
+Paint 3D                                  MSIX\Microsoft.MSPaint_6.2410.13017.0_x64ΓÇª 6.2410.13017.0              
+3D Viewer                                 MSIX\Microsoft.Microsoft3DViewer_7.2602.8ΓÇª 7.2602.8012.0               
+Microsoft Edge                            MSIX\Microsoft.MicrosoftEdge.Stable_140.0ΓÇª 140.0.3485.54               
+Solitaire & Casual Games                  MSIX\Microsoft.MicrosoftSolitaireCollectiΓÇª 4.25.4290.0                 
+Microsoft Sticky Notes                    MSIX\Microsoft.MicrosoftStickyNotes_6.1.4ΓÇª 6.1.4.0                     
+Mixed Reality Portal                      MSIX\Microsoft.MixedReality.Portal_2000.2ΓÇª 2000.21051.1282ΓÇª            
+Microsoft .Net Native Framework Package ΓÇª MSIX\Microsoft.NET.Native.Framework.1.7_1ΓÇª 1.7.27413.0                 
+Microsoft .Net Native Framework Package ΓÇª MSIX\Microsoft.NET.Native.Framework.1.7_1ΓÇª 1.7.27413.0                 
+Microsoft .Net Native Framework Package ΓÇª MSIX\Microsoft.NET.Native.Framework.2.2_2ΓÇª 2.2.29512.0                 
+Microsoft .Net Native Framework Package ΓÇª MSIX\Microsoft.NET.Native.Framework.2.2_2ΓÇª 2.2.29512.0                 
+Microsoft .Net Native Runtime Package 1.7 MSIX\Microsoft.NET.Native.Runtime.1.7_1.7ΓÇª 1.7.27422.0                 
+Microsoft .Net Native Runtime Package 1.7 MSIX\Microsoft.NET.Native.Runtime.1.7_1.7ΓÇª 1.7.27422.0                 
+Microsoft .Net Native Runtime Package 2.2 Microsoft.DotNet.Native.Runtime            2.2.28604.0                 winget
+Microsoft .Net Native Runtime Package 2.2 Microsoft.DotNet.Native.Runtime            2.2.28604.0                 winget
+Microsoft.Office.ActionsServer            MSIX\Microsoft.Office.ActionsServer_16.0.ΓÇª 16.0.19929.20172            
+OfficePushNotificationsUtility            MSIX\Microsoft.OfficePushNotificationUtilΓÇª 16.0.19929.20172            
+Outlook for Windows                       MSIX\Microsoft.OutlookForWindows_1.2025.1ΓÇª 1.2025.1007.400             
+Snip & Sketch                             MSIX\Microsoft.ScreenSketch_10.2008.3001.ΓÇª 10.2008.3001.0              
+Sea of Thieves                            MSIX\Microsoft.SeaofThieves_2.148.3469.0_ΓÇª 2.148.3469.0                
+Microsoft Engagement Framework            MSIX\Microsoft.Services.Store.Engagement_ΓÇª 10.0.23012.0                
+Microsoft Engagement Framework            MSIX\Microsoft.Services.Store.Engagement_ΓÇª 10.0.23012.0                
+Store Experience Host                     MSIX\Microsoft.StorePurchaseApp_22603.140ΓÇª 22603.1401.2.0              
+Microsoft.UI.Xaml.2.0                     MSIX\Microsoft.UI.Xaml.2.0_2.1810.18004.0ΓÇª 2.1810.18004.0              
+Microsoft.UI.Xaml.2.0                     MSIX\Microsoft.UI.Xaml.2.0_2.1810.18004.0ΓÇª 2.1810.18004.0              
+Microsoft.UI.Xaml.2.3                     MSIX\Microsoft.UI.Xaml.2.3_2.32002.13001.ΓÇª 2.32002.13001.0             
+Microsoft.UI.Xaml.2.3                     MSIX\Microsoft.UI.Xaml.2.3_2.32002.13001.ΓÇª 2.32002.13001.0             
+Microsoft.UI.Xaml.2.4                     MSIX\Microsoft.UI.Xaml.2.4_2.42007.9001.0ΓÇª 2.42007.9001.0              
+Microsoft.UI.Xaml.2.4                     MSIX\Microsoft.UI.Xaml.2.4_2.42007.9001.0ΓÇª 2.42007.9001.0              
+Microsoft.UI.Xaml.2.7                     Microsoft.UI.Xaml.2.7                      7.2409.9001.0               winget
+Microsoft.UI.Xaml.2.7                     Microsoft.UI.Xaml.2.7                      7.2409.9001.0               winget
+Microsoft.UI.Xaml.2.8                     Microsoft.UI.Xaml.2.8                      8.2501.31001.0              winget
+Microsoft.UI.Xaml.2.8                     Microsoft.UI.Xaml.2.8                      8.2501.31001.0              winget
+Microsoft.UI.Xaml.2.8                     Microsoft.UI.Xaml.2.8                      8.2310.30001.0              winget
+Microsoft Visual C++ 2012 UWP Desktop RuΓÇª MSIX\Microsoft.VCLibs.110.00.UWPDesktop_1ΓÇª 11.0.61135.0                
+Microsoft Visual C++ 2012 UWP Desktop RuΓÇª MSIX\Microsoft.VCLibs.110.00.UWPDesktop_1ΓÇª 11.0.61135.0                
+Microsoft Visual C++ 2013 UWP Desktop RuΓÇª MSIX\Microsoft.VCLibs.120.00.UWPDesktop_1ΓÇª 12.0.40653.0                
+Microsoft Visual C++ 2013 UWP Desktop RuΓÇª MSIX\Microsoft.VCLibs.120.00.UWPDesktop_1ΓÇª 12.0.40653.0                
+Microsoft Visual C++ 2015 UWP Desktop RuΓÇª Microsoft.VCLibs.Desktop.14                14.0.33728.0                winget
+Microsoft Visual C++ 2015 UWP Desktop RuΓÇª Microsoft.VCLibs.Desktop.14                14.0.33728.0                winget
+Microsoft Visual C++ 2015 UWP Desktop RuΓÇª Microsoft.VCLibs.Desktop.14                14.0.33519.0                winget
+Microsoft Visual C++ 2015 UWP Runtime PaΓÇª Microsoft.VCLibs.14                        14.0.33519.0                winget
+Microsoft Visual C++ 2015 UWP Runtime PaΓÇª Microsoft.VCLibs.14                        14.0.33519.0                winget
+Microsoft Visual C++ 2015 UWP Runtime PaΓÇª Microsoft.VCLibs.14                        14.0.30704.0                winget
+VP9 Video Extensions                      MSIX\Microsoft.VP9VideoExtensions_1.2.12.ΓÇª 1.2.12.0                    
+Microsoft Pay                             MSIX\Microsoft.Wallet_2.4.18324.0_x64__8wΓÇª 2.4.18324.0                 
+Web Media Extensions                      MSIX\Microsoft.WebMediaExtensions_1.2.17.ΓÇª 1.2.17.0                    
+WebP Image Extension                      MSIX\Microsoft.WebpImageExtension_1.2.14.ΓÇª 1.2.14.0                    
+Windows Advanced Settings                 MSIX\Microsoft.Windows.DevHome_0.2100.858ΓÇª 0.2100.858.0                
+Microsoft Photos                          MSIX\Microsoft.Windows.Photos_2026.11020.ΓÇª 2026.11020.2000ΓÇª            
+Windows Clock                             MSIX\Microsoft.WindowsAlarms_11.2512.0.0_ΓÇª 11.2512.0.0                 
+WindowsAppRuntime.1.3                     Microsoft.WindowsAppRuntime.1.3            1.3.3                       winget
+WindowsAppRuntime.1.3                     Microsoft.WindowsAppRuntime.1.3            1.3.3                       winget
+WindowsAppRuntime.1.4                     Microsoft.WindowsAppRuntime.1.4            > 1.4.5                     winget
+WindowsAppRuntime.1.4                     Microsoft.WindowsAppRuntime.1.4            > 1.4.5                     winget
+WindowsAppRuntime.1.4                     Microsoft.WindowsAppRuntime.1.4            1.4.5                       winget
+WindowsAppRuntime.1.5                     Microsoft.WindowsAppRuntime.1.5            > 1.5.8                     winget
+WindowsAppRuntime.1.5                     Microsoft.WindowsAppRuntime.1.5            > 1.5.8                     winget
+WindowsAppRuntime.1.5                     Microsoft.WindowsAppRuntime.1.5            1.5.8                       winget
+WindowsAppRuntime.1.5                     Microsoft.WindowsAppRuntime.1.5            1.5.7                       winget
+WindowsAppRuntime.1.5                     Microsoft.WindowsAppRuntime.1.5            < 1.5.7                     winget
+WindowsAppRuntime.1.5                     Microsoft.WindowsAppRuntime.1.5            < 1.5.7                     winget
+WindowsAppRuntime.1.6                     Microsoft.WindowsAppRuntime.1.6            1.6.8            1.6.9      winget
+WindowsAppRuntime.1.6                     Microsoft.WindowsAppRuntime.1.6            1.6.8                       winget
+WindowsAppRuntime.1.6                     Microsoft.WindowsAppRuntime.1.6            1.6.7                       winget
+WindowsAppRuntime.1.6                     Microsoft.WindowsAppRuntime.1.6            1.6.6                       winget
+WindowsAppRuntime.1.6                     Microsoft.WindowsAppRuntime.1.6            1.6.5                       winget
+WindowsAppRuntime.1.6                     Microsoft.WindowsAppRuntime.1.6            1.6.4                       winget
+WindowsAppRuntime.1.7                     Microsoft.WindowsAppRuntime.1.7            1.7.9                       winget
+WindowsAppRuntime.1.7                     Microsoft.WindowsAppRuntime.1.7            1.7.9                       winget
+WindowsAppRuntime.1.7                     Microsoft.WindowsAppRuntime.1.7            1.7.6                       winget
+WindowsAppRuntime.1.7                     Microsoft.WindowsAppRuntime.1.7            1.7.5                       winget
+WindowsAppRuntime.1.7                     Microsoft.WindowsAppRuntime.1.7            1.7.4                       winget
+WindowsAppRuntime.1.8                     Microsoft.WindowsAppRuntime.1.8            8000.859.21.0               winget
+WindowsAppRuntime.1.8                     Microsoft.WindowsAppRuntime.1.8            8000.859.21.0               winget
+WindowsAppRuntime.1.8                     Microsoft.WindowsAppRuntime.1.8            8000.836.2153.0             winget
+WindowsAppRuntime.1.8                     Microsoft.WindowsAppRuntime.1.8            8000.806.2252.0             winget
+WindowsAppRuntime.1.8                     Microsoft.WindowsAppRuntime.1.8            8000.770.947.0              winget
+Windows Calculator                        MSIX\Microsoft.WindowsCalculator_11.2508.ΓÇª 11.2508.4.0                 
+Windows Camera                            MSIX\Microsoft.WindowsCamera_2025.2510.2.ΓÇª 2025.2510.2.0               
+Feedback Hub                              MSIX\Microsoft.WindowsFeedbackHub_1.2602.ΓÇª 1.2602.13304.0              
+Windows Maps                              MSIX\Microsoft.WindowsMaps_11.2506.3.0_x6ΓÇª 11.2506.3.0                 
+Windows Voice Recorder                    MSIX\Microsoft.WindowsSoundRecorder_10.21ΓÇª 10.2103.28.0                
+Microsoft Store                           MSIX\Microsoft.WindowsStore_22603.1401.19ΓÇª 22603.1401.19.0             
+Windows Package Manager Source (winget) ΓÇª MSIX\Microsoft.Winget.Source_2026.518.144ΓÇª 2026.518.144.48             
+Xbox TCUI                                 MSIX\Microsoft.Xbox.TCUI_1.24.10001.0_x64ΓÇª 1.24.10001.0                
+Xbox Console Companion                    MSIX\Microsoft.XboxApp_48.104.4001.0_x64_ΓÇª 48.104.4001.0               
+Xbox Game Bar Plugin                      MSIX\Microsoft.XboxGameOverlay_1.54.4001.ΓÇª 1.54.4001.0                 
+Game Bar                                  MSIX\Microsoft.XboxGamingOverlay_7.326.41ΓÇª 7.326.4151.0                
+Xbox Identity Provider                    MSIX\Microsoft.XboxIdentityProvider_12.13ΓÇª 12.130.16001.0              
+Xbox Game Speech Window                   MSIX\Microsoft.XboxSpeechToTextOverlay_1.ΓÇª 1.21.13002.0                
+Phone Link                                MSIX\Microsoft.YourPhone_1.25072.79.0_x64ΓÇª 1.25072.79.0                
+Windows Media Player                      MSIX\Microsoft.ZuneMusic_11.2603.12.0_x64ΓÇª 11.2603.12.0                
+Movies & TV                               MSIX\Microsoft.ZuneVideo_10.25121.10051.0ΓÇª 10.25121.10051.0            
+Windows Subsystem for Linux               Microsoft.WSL                              2.7.3.0                     winget
+Cross Device Experience Host              MSIX\MicrosoftWindows.CrossDevice_1.25072ΓÇª 1.25072.59.0                
+Codex                                     MSIX\OpenAI.Codex_26.513.4821.0_x64__2p2nΓÇª 26.513.4821.0               
+TradingView                               TradingView.TradingViewDesktop             2.9.6.6767       3.1.0.7818 winget
+Local AI Manager for Microsoft 365        MSIX\aimgr_0.20.47.0_x64__8wekyb3d8bbwe    0.20.47.0                   
+Mail and Calendar                         MSIX\microsoft.windowscommunicationsapps_ΓÇª 16005.14326.223ΓÇª            
+
+

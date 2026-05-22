@@ -1,0 +1,78 @@
+{
+  "name": "ai-os",
+  "version": "1.0.0",
+  "description": "Andy's AI Operating System. 5 dept-head sub-agents (Orchestrator/Builder/Writer/Archivist/Auditor) + 11 specialists (sub-agents that can run in parallel via the Task tool) backed by a markdown vault. 18 custom slash-command skills covering daily-driver workflows (brainstorm, handoff, audit, retro, forge, revive, and more), 15 doctrine rules including the TCE compression codec for agent-to-agent dispatch, an Activity Log auto-hook, and GitHub MCP integration. Source of truth lives in the vault at 03 - Skills & Rules/.",
+  "author": {
+    "name": "Andy August",
+    "github": "<YOUR-GH-HANDLE>"
+  },
+  "homepage": "https://github.com/<YOUR-GH-HANDLE>/ai-knowledge-base",
+  "keywords": [
+    "ai-os",
+    "agents",
+    "obsidian",
+    "vault",
+    "command-center"
+  ],
+  "agents": [
+    ".claude/agents/archivist.md",
+    ".claude/agents/auditor.md",
+    ".claude/agents/builder.md",
+    ".claude/agents/drift-watcher-quarterly.md",
+    ".claude/agents/orchestrator.md",
+    ".claude/agents/weekly-summarizer.md",
+    ".claude/agents/writer.md"
+  ],
+  "skills": [
+    ".claude/skills/audit",
+    ".claude/skills/brainstorm",
+    ".claude/skills/commit-message-writer",
+    ".claude/skills/compile-topic",
+    ".claude/skills/course-builder",
+    ".claude/skills/daily-note-writer",
+    ".claude/skills/deck-builder",
+    ".claude/skills/drift-fix",
+    ".claude/skills/forge",
+    ".claude/skills/git-bootstrap",
+    ".claude/skills/handoff",
+    ".claude/skills/lesson-content-writer",
+    ".claude/skills/project-scaffolder",
+    ".claude/skills/retro",
+    ".claude/skills/revive",
+    ".claude/skills/specialist-creator",
+    ".claude/skills/sweep-inbox",
+    ".claude/skills/workflow-author"
+  ],
+  "hooks": ".claude/settings.json",
+  "mcpServers": ".claude/settings.json",
+  "includes": [
+    "CLAUDE.md",
+    "03 - Skills & Rules/",
+    "05 - Workflows/",
+    "06 - Scheduled Tasks/",
+    "22 - Scripts/setup-claude-agents.ps1",
+    "22 - Scripts/setup-claude-hooks.ps1",
+    "22 - Scripts/setup-claude-skills.ps1",
+    "22 - Scripts/setup-github-mcp.ps1",
+    "22 - Scripts/hook-log-edit.ps1",
+    "22 - Scripts/git-bootstrap.ps1"
+  ],
+  "install": {
+    "prerequisites": [
+      "Windows 10/11 with PowerShell 5.1+",
+      "Python 3.11+",
+      "git + gh CLI (with gh auth login complete)",
+      "Claude Code installed",
+      "GitHub PAT set as env var GITHUB_PERSONAL_ACCESS_TOKEN (for MCP)"
+    ],
+    "steps": [
+      "1. Clone the vault: gh repo clone <YOUR-GH-HANDLE>/ai-knowledge-base",
+      "2. cd into the cloned folder",
+      "3. .\\22 - Scripts\\setup-claude-agents.ps1   # registers 5 dept heads",
+      "4. .\\22 - Scripts\\setup-claude-hooks.ps1    # Activity Log auto-hook",
+      "5. .\\22 - Scripts\\setup-claude-skills.ps1   # project-scaffolder + git-bootstrap skills",
+      "6. .\\22 - Scripts\\setup-github-mcp.ps1      # GitHub MCP server",
+      "7. Open Claude Code, run /agents - confirm 5 dept heads listed"
+    ]
+  }
+}

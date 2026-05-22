@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# 💡 Brainstorm → Project\n\nSeven stages from idea to active work. Each card maps to a section in [[02-brainstorm-to-project|the guide]].","x":0,"y":-130,"width":900,"height":120,"color":"6"},
+		{"id":"s1","type":"text","text":"### 1. Capture\nObsidian → Excalidraw drawing. Or daily note. Externalize the thought, no judgment.\n→ `21 - Excalidraw/`","x":0,"y":40,"width":280,"height":160,"color":"5"},
+		{"id":"s2","type":"text","text":"### 2. Talk it through\nCowork. Attach drawing. Ask: what is this in one sentence? Smallest interesting version?","x":310,"y":40,"width":280,"height":160,"color":"5"},
+		{"id":"s3","type":"text","text":"### 3. Decide\nWorth pursuing? Yes → continue. No → leave the drawing as a captured idea for later.","x":620,"y":40,"width":280,"height":160,"color":"3"},
+		{"id":"s4","type":"text","text":"### 4. Pick home on disk\nUse 5S drive map.\n\n- Non-game: `E:\\Projects\\<name>\\`\n- Game: `F:\\Game Dev\\Projects\\<name>\\`\n- Course: `E:\\Projects\\Courses\\<name>\\`\n\n`22 - Scripts\\git-bootstrap.ps1` to scaffold.","x":0,"y":230,"width":280,"height":220,"color":"1"},
+		{"id":"s5","type":"text","text":"### 5. Vault directory note\nCopy `04 - Templates/Project README.md` to `02 - Projects/<Category>/<Project>.md`. Fill frontmatter (path, status, category, tags).","x":310,"y":230,"width":280,"height":220,"color":"1"},
+		{"id":"s6","type":"text","text":"### 6. Make discoverable\nDashboard's Active Projects Dataview picks it up. Add wikilinks from Software Map + Topics if relevant.","x":620,"y":230,"width":280,"height":220,"color":"1"},
+		{"id":"s7","type":"text","text":"### 7. Work it\nOpen Cowork in project context. Project README + CLAUDE.md tell Claude what skills/rules/agents apply. Work happens on disk. Vault note updated at milestones.","x":310,"y":480,"width":280,"height":220,"color":"4"},
+		{"id":"guide","type":"file","file":"14 - How To/guides/02-brainstorm-to-project.md","x":0,"y":730,"width":900,"height":470}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"s1","fromSide":"right","toNode":"s2","toSide":"left"},
+		{"id":"e2","fromNode":"s2","fromSide":"right","toNode":"s3","toSide":"left"},
+		{"id":"e3","fromNode":"s3","fromSide":"bottom","toNode":"s4","toSide":"top"},
+		{"id":"e4","fromNode":"s4","fromSide":"right","toNode":"s5","toSide":"left"},
+		{"id":"e5","fromNode":"s5","fromSide":"right","toNode":"s6","toSide":"left"},
+		{"id":"e6","fromNode":"s6","fromSide":"bottom","toNode":"s7","toSide":"top"}
+	]
+}

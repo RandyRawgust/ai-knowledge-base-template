@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{TITLE}} — Presenter Deck</title>
+
+<!-- Mermaid for diagrams -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<!-- highlight.js for code -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11/styles/github.min.css">
+<script src="https://cdn.jsdelivr.net/npm/highlight.js@11/lib/core.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/highlight.js@11/lib/languages/javascript.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/highlight.js@11/lib/languages/python.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/highlight.js@11/lib/languages/bash.min.js"></script>
+
+<style>
+  :root {
+    --bg:        #ffffff;
+    --bg-soft:   #fafafa;
+    --fg:        #1a1a1a;
+    --fg-soft:   #595959;
+    --fg-faint:  #8a8a8a;
+    --accent:    #4a3aff;
+    --accent-soft: #eeebff;
+    --rule:      #e6e6e6;
+    --shadow:    0 1px 0 rgba(0,0,0,0.04);
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Inter, Roboto, sans-serif;
+    font-size: 17px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Page header */
+  header.deck-header {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 56px 32px 0;
+  }
+  .deck-kicker {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  .deck-title {
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 1.1;
+    margin: 0 0 12px;
+    letter-spacing: -0.02em;
+  }
+  .deck-meta {
+    color: var(--fg-faint);
+    font-size: 14px;
+    margin-bottom: 48px;
+  }
+
+  /* Main scroll area */
+  main.deck {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 32px 200px;
+  }
+
+  /* Each section / slide */
+  section.slide {
+    padding: 32px 0;
+    border-top: 1px solid var(--rule);
+    opacity: 0;
+    transform: translateY(14px);
+    transition: opacity 480ms ease-out, transform 480ms ease-out;
+  }
+  section.slide.in { opacity: 1; transform: translateY(0); }
+  section.slide:first-of-type { border-top: none; }
+
+  .kicker {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  section.slide h2 {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin: 0 0 12px;
+    letter-spacing: -0.01em;
+  }
+  section.slide h3 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 24px 0 8px;
+  }
+  .lede {
+    font-size: 19px;
+    color: var(--fg-soft);
+    margin: 0 0 20px;
+    line-height: 1.5;
+  }
+  .content > * + * { margin-top: 16px; }
+
+  /* Bullets */
+  .content ul { padding-left: 22px; margin: 0; }
+  .content ul li { margin-bottom: 6px; }
+  .content ul li::marker { color: var(--accent); }
+
+  /* Numbered */
+  .content ol { padding-left: 24px; margin: 0; }
+  .content ol li { margin-bottom: 6px; }
+
+  /* Quote / callout */
+  .quote {
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 14px 18px;
+    font-style: italic;
+    color: var(--fg);
+    font-size: 17px;
+  }
+
+  /* Code block */
+  .content pre {
+    background: var(--bg-soft);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 14px 16px;
+    overflow-x: auto;
+    font-size: 13.5px;
+    font-family: ui-monospace, "JetBrains Mono", Menlo, Consolas, monospace;
+    line-height: 1.5;
+  }
+  .content code {
+    font-family: ui-monospace, Menlo, Consolas, monospace;
+    font-size: 0.92em;
+    background: var(--bg-soft);
+    padding: 1px 5px;
+    border-radius: 3px;
+  }
+
+  /* Tables */
+  .content table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 15px;
+  }
+  .content th, .content td {
+    text-align: left;
+    padding: 9px 12px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .content th {
+    font-weight: 600;
+    color: var(--fg-soft);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  /* Metric tiles */
+  .metrics {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 12px;
+  }
+  .metric {
+    background: var(--bg-soft);
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    padding: 14px 16px;
+  }
+  .metric .label {
+    font-size: 12px;
+    color: var(--fg-faint);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 4px;
+  }
+  .metric .value {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1.1;
+  }
+  .metric .value.accent { color: var(--accent); }
+
+  /* Side-by-side compare */
+  .sxs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .sxs > div {
+    background: var(--bg-soft);
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    padding: 16px;
+  }
+  .sxs h4 {
+    margin: 0 0 8px;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--fg-faint);
+    font-weight: 600;
+  }
+
+  /* SVG diagrams — keep them constrained */
+  .content svg, .content .mermaid {
+    max-width: 100%;
+    height: auto;
+    margin: 8px 0;
+  }
+
+  /* Meta line */
+  .meta {
+    margin-top: 16px;
+    font-size: 12px;
+    color: var(--fg-faint);
+    letter-spacing: 0.04em;
+  }
+
+  /* Footer */
+  footer.deck-footer {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 48px 32px 80px;
+    color: var(--fg-faint);
+    font-size: 13px;
+    border-top: 1px solid var(--rule);
+  }
+
+  /* Print-friendly */
+  @media print {
+    section.slide { opacity: 1 !important; transform: none !important; page-break-inside: avoid; }
+    a { color: inherit; text-decoration: none; }
+  }
+
+  /* Dark-mode hook (optional) */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14141a;
+      --bg-soft: #1c1c24;
+      --fg: #ececec;
+      --fg-soft: #b0b0b8;
+      --fg-faint: #7a7a82;
+      --accent: #8e7dff;
+      --accent-soft: #2a234a;
+      --rule: #2a2a32;
+    }
+    .content pre, .content code { background: var(--bg-soft); color: var(--fg); }
+  }
+</style>
+</head>
+<body>
+
+<header class="deck-header">
+  <div class="deck-kicker">Presenter Deck</div>
+  <h1 class="deck-title">{{TITLE}}</h1>
+  <div class="deck-meta">{{DATE}} · live transcript, scroll as we talk</div>
+</header>
+
+<main class="deck" id="deck-main">
+
+  <!-- First section is the opener. Replace with topic-specific content. -->
+  <section class="slide" data-anim="fade-up">
+    <div class="kicker">opening</div>
+    <h2>Setting the stage</h2>
+    <p class="lede">{{OPENING_LEDE}}</p>
+    <div class="content">
+      <ul>
+        <li>{{BULLET_1}}</li>
+        <li>{{BULLET_2}}</li>
+        <li>{{BULLET_3}}</li>
+      </ul>
+    </div>
+    <div class="meta">{{TIME}} · Presenter</div>
+  </section>
+
+  <!-- INSERT_BEFORE_MAIN_END -->
+</main>
+
+<footer class="deck-footer">
+  <div>Updated <span id="last-updated">{{TIME}}</span> · <span id="section-count">1</span> section</div>
+</footer>
+
+<script>
+  // Mermaid init
+  if (window.mermaid) {
+    mermaid.initialize({ startOnLoad: true, theme: 'neutral' });
+  }
+  // highlight.js init
+  if (window.hljs) {
+    hljs.registerLanguage && document.querySelectorAll('pre code').forEach(el => hljs.highlightElement(el));
+  }
+  // Fade-in on scroll
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('in');
+        io.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.12 });
+  document.querySelectorAll('section.slide').forEach(s => io.observe(s));
+
+  // Live count update
+  function refreshFooter() {
+    document.getElementById('section-count').textContent =
+      document.querySelectorAll('section.slide').length;
+  }
+  refreshFooter();
+  new MutationObserver(refreshFooter).observe(
+    document.getElementById('deck-main'), { childList: true }
+  );
+</script>
+
+</body>
+</html>

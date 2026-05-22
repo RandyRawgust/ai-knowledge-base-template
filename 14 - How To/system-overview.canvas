@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"# 🧠 System Overview\n\nFive layers of the AI OS. The vault sits on top of the file system, AI tools sit on top of the vault, agents drive the tools, and automation drives the agents on a schedule. Read [[01-system-overview|the guide]] for the narrative.","x":0,"y":-150,"width":900,"height":130,"color":"6"},
+		{"id":"vault","type":"text","text":"### 1. Vault\nMarkdown brain. `E:\\Projects\\AI Knowledge Base\\`. Text only — no binaries.\n\n- 15 content folders (00-22 prefixes + 99)\n- 4 dotfolders (`.claude/`, `.claude-plugin/`, `.obsidian/`, `.git/`)\n- Loose root files: CLAUDE, README, ROADMAP, Dashboard, 5S, Projects-Index","x":-450,"y":50,"width":350,"height":280,"color":"5"},
+		{"id":"fs","type":"text","text":"### 2. File System\nWhere the actual work lives. Vault points here via `file:///` links.\n\n- `E:\\Projects\\` — non-game projects\n- `F:\\Game Dev\\Projects\\` — game dev\n- `E:\\Media\\` — Images/Audio/Videos\n- `E:\\Utilities\\` — workspaces\n- `G:\\` — untouched archive","x":-50,"y":50,"width":350,"height":280,"color":"3"},
+		{"id":"tools","type":"text","text":"### 3. AI Tools\nWhat actually runs Claude.\n\n- **Cowork** — chat surface, schedules tasks, runs Claude with vault context\n- **Claude Code** — CLI, native sub-agent invocation\n- **Claude Desktop** — chat\n- **Cursor / Codex** — IDE / autonomous","x":350,"y":50,"width":350,"height":280,"color":"4"},
+		{"id":"agents","type":"text","text":"### 4. Agents\n5 dept heads + delegated specialists. Each has memory loaded every invocation.\n\n- Orchestrator — front door (Opus)\n- Builder — creates (Sonnet)\n- Writer — improves text (Sonnet)\n- Archivist — compiles (Sonnet)\n- Auditor — watches (Opus)","x":-250,"y":380,"width":350,"height":280,"color":"1"},
+		{"id":"automation","type":"text","text":"### 5. Automation\nScheduled work, no human in the loop.\n\n- **weekly-summarizer** — Sundays 8 AM (Cowork)\n- **drift-watcher-quarterly** — Jan/Apr/Jul/Oct 1st (Cowork)\n- **sort_inbox** — Sundays 9 AM (Windows Task Scheduler)","x":150,"y":380,"width":350,"height":280,"color":"2"},
+		{"id":"link-claude","type":"file","file":"CLAUDE.md","x":-450,"y":700,"width":350,"height":200},
+		{"id":"link-readme","type":"file","file":"README.md","x":-50,"y":700,"width":350,"height":200},
+		{"id":"link-5s","type":"file","file":"5S_STANDARD.md","x":350,"y":700,"width":350,"height":200},
+		{"id":"link-guide1","type":"file","file":"14 - How To/guides/01-system-overview.md","x":-50,"y":950,"width":700,"height":200}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"vault","fromSide":"right","toNode":"fs","toSide":"left"},
+		{"id":"e2","fromNode":"fs","fromSide":"right","toNode":"tools","toSide":"left"},
+		{"id":"e3","fromNode":"tools","fromSide":"bottom","toNode":"agents","toSide":"top"},
+		{"id":"e4","fromNode":"agents","fromSide":"right","toNode":"automation","toSide":"left"}
+	]
+}
